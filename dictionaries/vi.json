@@ -1,0 +1,40 @@
+{
+  "nameBtn": {
+    "language": "vi"
+  },
+  "infoTitle": {
+    "hoverTitle": "Bắt đầu tiếp xúc với ngôn ngữ lập trình từ năm 18 tuổi, không ngừng cố gắng và học hỏi để hoàn thiện bản thân."
+  },
+  "contact": {
+    "infoContact": "Thông tin liên hệ"
+  },
+  "projects": {
+    "infoProject": "Các dự án cá nhân"
+  },
+  "mindmap": {
+    "p1": "Một dự án nhỏ hoàn thành trong vòng một tháng",
+    "p2": "Một trang web đơn giản cho phép tạo và chia sẻ các đoạn thư mục về sơ đồ tư duy. Sử dụng HTML, CSS, Nextjs."
+  },
+
+  "myHobby": {
+    "title": "Sở thích của tôi",
+    "li1": "Thưởng Thức Nhạc Nhẹ, Nhạc Rap Của Đen Vâu Và Các Nghệ Sĩ Khác,…",
+    "li2": "Đọc Sách, Học Hỏi Thêm Về Các Ngôn Ngữ Lập Trình Mới Mẻ. Hiện Tại, tôi đang học về FE và BE",
+    "li3": "Theo Dõi Các Xu Hướng Công Nghệ, Tin Tức Về Các Sản Phẩm Nổi Tiếng như Iphone, Huawei, GoogleAI,…"
+  },
+  "mySkill": {
+    "title": "Các kỹ năng của tôi",
+    "work": "Kỹ năng làm việc",
+    "otherSkill": "Các kỹ năng khác"
+  },
+  "infoOtherSkill": {
+    "p": "Kỹ năng nghiên cứu và tìm kiếm tương đối tốt. Tư duy làm việc, kỹ năng làm việc nhóm tốt so với độ tuổi."
+  },
+  "history": {
+    "title": "Lịch sử",
+    "about1": "Trường Chuyên THCS Tiên Du",
+    "about2": "Trường THPT Nguyễn Đăng Đạo",
+    "about3": "Học tại trường Đại Học Công Nghệ Đại Học Quốc Gia Hà Nội"
+  },
+  "description": "Xin chào, mình là F8, đây là trang cá nhân của mình."
+}
